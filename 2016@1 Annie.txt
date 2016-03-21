@@ -6,8 +6,6 @@
 [2016/01/11/25:11][MX][魔法少女なんてもういいですから。][Mahou Shoujo Nante Mou Ii Desu kara.][마법소녀 따윈 이제 됐으니까.]
 [2016/01/11/26:05][TX][蒼の彼方のフォーリズム][Ao no Kanata no Four Rhythm][푸른 저편의 포리듬]
 
-[Ohys-Raws] Yami Shibai 3 - 01 (AT-X 1280x720 x264 AAC)
-
 火
 [2016/01/05/23:00][AT-X][プリンス・オブ・ストライド オルタナティブ][Prince of Stride Alternative][프린스 오브 스트라이드 얼터너티브]
 
@@ -26,12 +24,14 @@
 [2016/01/07/25:46][TBS][ファンタシースターオンライン2][판타지 스타 온라인2 The Animation] Phantasy Star Online 2 The Animation 
 [2016/01/07/26:16][TBS][だがしかし][Dagashi Kashi][다가시카시]
 
-
 金
 [2016/01/08/22:30][MX][ディバインゲート][Divine Gate] + [27:30 BS11]
 [2016/01/08/22:30][AT-X][おしえて！ ギャル子ちゃん][Oshiete! Galko-chan][가르쳐줘! 갸루코짱]
+[2016/01/08/22:55][AT-X][Yami Shibai 3]
 [2016/01/08/23:00][MX][石膏ボーイズ][Sekkou Boys][석고 보이즈]
-[2016/01/08/23:00][MX][旅街レイトショー][Tabi Machi Late Show] // この男子、魔法がお仕事です // Kono Danshi, Mahou ga Oshigoto Desu. // Kanojo to Kanojo no Neko - Everything Flows
+[2016/01/08/23:00][MX][旅街レイトショー][Tabi Machi Late Show]
+[2016/01/08/23:00][MX][この男子、魔法がお仕事です][kono Danshi, Mahou ga Oshigoto Desu.]
+[2016/01/08/23:00][MX][Kanojo to Kanojo no Neko - Everything Flows]
 [2016/01/08/23:00][AT-X][紅殻のパンドラ][Koukaku no Pandora][홍각의 판도라]
 [2016/01/08/24:00][AT-X][霊剣山][Reikenzan - Hoshikuzu-tachi no Utage][영검산 별들의 잔치]
 [2016/01/08/25:05][MX][GATE 自衛隊 彼の地にて、斯く戦えり][Gate - Jieitai Kanochi nite, Kaku Tatakaeri][GATE - 자위대 그의 땅에서, 이처럼 싸우며]
@@ -42,7 +42,7 @@
 [2016/01/09/22:00][MX][ブブキ･ブランキ][Bubuki Buranki][부부키 부란키] + [23:00 AT-X]
 [2016/01/09/22:30][MX][ラクエンロジック][Luck and Logic][럭 앤 로직]
 [2016/01/09/23:30][BS11][デュラララ!!x2 結][Durarara!!x2 Ketsu][듀라라라!!ⅹ2]
-[2016/01/09/26:25][NTV][ナースウィッチ小麦ちゃんR][Nurse Witch Komugi-chan R][간호마녀 코무기짱R] + [VOD 24:00
+[2016/01/09/26:25][NTV][ナースウィッチ小麦ちゃんR][Nurse Witch Komugi-chan R][간호마녀 코무기짱R]
 
 日
 [2016/01/10/22:00][MX][虹色デイズ][Niji-iro Days][무지개빛 데이즈]
