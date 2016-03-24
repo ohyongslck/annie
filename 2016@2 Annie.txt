@@ -38,10 +38,10 @@
 土
 [04/02][17:30][NTV][逆転裁判][Gyakuten Saiban][역전재판]
 [04/09][17:30][NHKE][境界のRINNE 2][Kyoukai no Rinne 2][경계의 RINNE 2기]
-[04/02][22:30][ANIMAX][学戦都市アスタリスク][Gakusen Toshi Asterisk 2][학전도시 애스터리스크]
+[04/02][22:30][ANIMAX][学戦都市アスタリスク][Gakusen Toshi Asterisk 2][학전도시 애스터리스크] // [BS11 24:30]
 [04/09][22:00][MX][田中くんはいつもけだるげ][Tanaka-kun wa Itsumo Kedaruge][타나카 군은 항상 나른해]
-[04/09][23:30][BS11][キズナイーバー][Kiznaiver][키즈나이버]
-[04/09][24:00][BS11][はいふり][Hai-Furi][하이후리]
+[04/09][23:30][BS11/MX][キズナイーバー][Kiznaiver][키즈나이버]
+[04/09][24:00][BS11/MX][はいふり][Hai-Furi][하이후리]
 [04/09][26:25][NTV][ふらいんぐうぃっち][Flying Witch][플라잉 위치]
 [04/02][25:55][NTV][エンドライド][Endride][엔드라이드]
 
