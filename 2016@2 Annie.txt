@@ -29,6 +29,7 @@
 [04/01][22:30][AT-X][宇宙パトロールルル子][Uchuu Patrol Luluco][우주 패트롤 루루코] // [MX 23:00]
 [04/01][22:30][WOWOW][迷家‐マヨイガ‐][Mayoiga][마요이가] // [TBS 04/08 25:55]
 [04/01][22:30][MX][うしおととら][Ushio to Tora 2][요괴소년 호야 2기]
+[04/01][24:30][MX][ジョジョの奇妙な冒険 ダイヤモンドは砕けない][JoJo no Kimyou na Bouken: Diamond wa Kudakenai] // [BS11 04/03 24:00]
 [04/01][25:05][MX][テラフォーマーズ リベンジ][Terra Formars - Revenge][테라포마스 리벤지]
 [04/15][25:40][MX][ビッグオーダー][Big Order][빅 오더]
 [04/15][26:25][TBS][マギ シンドバッドの冒険][Magi - Sinbad no Bouken]
@@ -50,5 +51,4 @@
 [04/03][23:00][MX][コンクリート・レボルティオ～超人幻想～][Concrete Revolutio - Choujin Gensou - The Last Song][콘크리트 레볼루티오 ~초인 환상~]
 [04/03][23:30][AT-X][くまみこ][Kumamiko - Girl Meets Bear][쿠마미코]
 [04/10][24:00][AT-X][三者三葉][Sansha Sanyou][삼자삼엽] // [BS11 24:30]
-[04/03][24:00][BS11][ジョジョの奇妙な冒険 ダイヤモンドは砕けない][JoJo no Kimyou na Bouken: Diamond wa Kudakenai] // [최속 MX 04/01 24:30]
 [04/03][25:05][TX][Re:ゼロから始める異世界生活][Re - Zero Kara Hajimeru Isekai Seikatsu][Re : 제로부터 시작하는 이세계 생활]
