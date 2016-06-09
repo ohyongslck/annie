@@ -3,6 +3,7 @@
 [07/04][25:00][MX][Show by Rock!! Short!!]
 [07/04][25:05][MX][甘々と稲妻][Amaama to Inazuma][아마아마와 이나즈마]
 [07/04][][MX][少年探偵団][Trickster - Edogawa Ranpo "Shounen Tanteidan" yori]
+[07/04][25:35][TX][D.Gray-man HALLOW]
 [07/04][26:05][TX][タブー・タトゥー][Taboo-Tattoo]
 
 火
@@ -13,9 +14,11 @@
 
 水
 [07/06][23:00][AT-X][Fate/kaleid liner プリズマ☆イリヤ 3rei!!][Fate/Kaleid Liner Prisma Illya Drei!!] // [MX 07/06 25:05]
+[07/06][24:05][MX][魔法少女？なりあ☆がーるず][Mahou Shoujo? Naria Girls]
 
 木
-[07/14][22:00][AT-X][レガリア The Three Sacred Stars][Regalia - The Three Sacred Stars]
+[07/07][22:00][AT-X][レガリア The Three Sacred Stars][Regalia - The Three Sacred Stars]
+[07/02][22:00][MX][食戟のソーマ 弐ノ皿][Shokugeki no Souma Ni no Sara][식극의 소마 2기]
 [07/14][23:30][MX][ダンガンロンパ3 -The End of 希望ヶ峰学園- 絶望編][Danganronpa 3 The End of Kibougamine Gakuen - Zetsubou Hen][절망편] // [BS11 07/14 24:30]
 [07/14][24:55][CX][バッテリー][Battery][배터리]
 [07/07][25:58][TBS][はんだくん][Handa-kun]
@@ -31,7 +34,9 @@
 [07/09][07:30][TX][タイムトラベル少女～マリ・ワカと8人の科学者たち～][Time Travel Shoujo - Mari Waka to 8-nin no Kagakusha-tachi] // [AT-X 07/09 21:00]
 [07/02][22:30][MX][ラブライブ！サンシャイン!!][Love Live! Sunshine!!][러브 라이브! 선샤인!!] // [BS11 07/02 23:00]
 [07/02][23:00][AT-X][初恋モンスター][Hatsukoi Monster][첫사랑 몬스터]
+[07/02][][][Rewrite]
 [07/09][24:00][BS11][クオリディア・コード][Qualidea Code] // [MX 07/09 24:00][퀄리디아 코드]
+[07/09][25:30][MX][アンジュ・ヴィエルジュ][Ange Vierge]
 
 日
 [07/03][17:00][TBS][アルスラーン戦記 風塵乱舞][Arslan Senki - Fuujin Ranbu][아르슬란 전기 풍진난무]
