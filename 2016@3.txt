@@ -19,7 +19,6 @@
 
 木
 [07/07][22:00][AT-X][レガリア The Three Sacred Stars][Regalia - The Three Sacred Stars]
-[07/02][22:00][MX][食戟のソーマ 弐ノ皿][Shokugeki no Souma Ni no Sara][식극의 소마 2기]
 [07/14][23:30][MX][ダンガンロンパ3 -The End of 希望ヶ峰学園- 絶望編][Danganronpa 3 The End of Kibougamine Gakuen - Zetsubou Hen][절망편] // [BS11 07/14 24:30]
 [07/14][24:55][CX][バッテリー][Battery][배터리]
 [07/07][25:58][TBS][はんだくん][Handa-kun]
@@ -34,6 +33,7 @@
 
 土
 [07/09][07:30][TX][タイムトラベル少女～マリ・ワカと8人の科学者たち～][Time Travel Shoujo - Mari Waka to 8-nin no Kagakusha-tachi] // [AT-X 07/09 21:00]
+[07/02][22:00][MX][食戟のソーマ 弐ノ皿][Shokugeki no Souma Ni no Sara][식극의 소마 2기]
 [07/02][22:30][MX][ラブライブ！サンシャイン!!][Love Live! Sunshine!!][러브 라이브! 선샤인!!] // [BS11 07/02 23:00]
 [07/02][23:00][AT-X][初恋モンスター][Hatsukoi Monster][첫사랑 몬스터]
 [07/02][][][Rewrite]
