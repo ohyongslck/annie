@@ -16,7 +16,7 @@
 
 水
 [07/06][23:00][AT-X][Fate/kaleid liner プリズマ☆イリヤ 3rei!!][Fate/Kaleid Liner Prisma Illya Drei!!] // [MX 07/06 25:05]
-[07/06][23:00][MX][ツキウタ。] // [BS11 07/06 26:00]
+[07/06][23:00][MX][ツキウタ。][Tsukiuta. The Animation] // [BS11 07/06 26:00]
 [07/06][24:05][MX][魔法少女？なりあ☆がーるず][Mahou Shoujo? Naria Girls]
 
 
@@ -32,6 +32,7 @@
 [07/01][22:30][WOWOW][ベルセルク][Berserk]
 [07/08][23:00][AT-X][あまんちゅ！][Amanchu!][아만츄!]
 [07/08][23:00][MX][Thunderbolt Fantasy] // [BS11 23:30 /AT-X 24:00]
+[07/08][25:05][MX][ねじ巻き精霊戦記 天鏡のアルデラミン][Nejimaki Seirei Senki - Tenkyou no Alderamin ]
 [07/08][25:55][TBS][91 Days]
 
 土
@@ -40,7 +41,8 @@
 [07/02][22:30][MX][ラブライブ！サンシャイン!!][Love Live! Sunshine!!][러브 라이브! 선샤인!!] // [BS11 07/02 23:00]
 [07/02][23:00][AT-X][初恋モンスター][Hatsukoi Monster][첫사랑 몬스터]
 [07/02][][][Rewrite]
-[07/09][24:00][BS11][クオリディア・コード][Qualidea Code] // [MX 07/09 24:00][퀄리디아 코드]
+[07/09][24:00][BS11/MX][クオリディア・コード][Qualidea Code] // [MX 07/09 24:00][퀄리디아 코드]
+[07/09][24:30][BS11/MX][B-PROJECT～鼓動＊アンビシャス～][B-Project - Kodou Ambitious]
 [07/09][25:30][MX][アンジュ・ヴィエルジュ][Ange Vierge]
 
 日
