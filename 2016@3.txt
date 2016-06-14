@@ -39,7 +39,7 @@
 [07/08][25:55][TBS][91 Days]
 
 土
-[07/09][07:30][TX][タイムトラベル少女～マリ・ワカと8人の科学者たち～][Time Travel Shoujo - Mari Waka to 8-nin no Kagakusha-tachi] // [AT-X 07/09 21:00]
+[07/09][07:00][TX][タイムトラベル少女～マリ・ワカと8人の科学者たち～][Time Travel Shoujo - Mari Waka to 8-nin no Kagakusha-tachi] // [AT-X 07/09 21:00]
 [07/02][22:00][MX][食戟のソーマ 弐ノ皿][Shokugeki no Souma Ni no Sara][식극의 소마 2기]
 [07/02][22:30][MX][ラブライブ！サンシャイン!!][Love Live! Sunshine!!][러브 라이브! 선샤인!!] // [BS11 07/02 23:00]
 [07/02][23:00][AT-X][初恋モンスター][Hatsukoi Monster][첫사랑 몬스터]
@@ -47,6 +47,7 @@
 [07/09][24:00][BS11/MX][クオリディア・コード][Qualidea Code][퀄리디아 코드]
 [07/09][24:30][BS11/MX][B-PROJECT～鼓動＊アンビシャス～][B-Project - Kodou Ambitious]
 [07/09][25:30][MX][アンジュ・ヴィエルジュ][Ange Vierge]
+[07/02][25:58][MBS][DAYS] // [MX 07/03 23:00 / BS11 07/03 25:00]
 
 日
 [07/03][17:00][TBS][アルスラーン戦記 風塵乱舞][Arslan Senki - Fuujin Ranbu][아르슬란 전기 풍진난무]
