@@ -1,6 +1,6 @@
 月
 [07/04][22:30][AT-X][New Game!] // [BS11 07/06 24:00]
-[07/11][23:00][MX/AT-X][ダンガンロンパ3 -The End of 希望ヶ峰学園- 未来編][Danganronpa 3 The End of Kibougamine Gakuen - Mirai Hen][미래편] // [BS11 07/11 24:30]
+[07/11][23:00][AT-X/MX][ダンガンロンパ3 -The End of 希望ヶ峰学園- 未来編][Danganronpa 3 The End of Kibougamine Gakuen - Mirai Hen][미래편] // [BS11 07/11 24:30]
 [07/11][24:00][MX][モブサイコ100][Mob Psycho 100][모브 사이코 100]
 [07/04][25:00][MX][Show by Rock!! Short!!]
 [07/04][25:05][MX][甘々と稲妻][Amaama to Inazuma][아마아마와 이나즈마]
@@ -23,7 +23,7 @@
 
 木
 [07/07][22:00][AT-X][レガリア The Three Sacred Stars][Regalia - The Three Sacred Stars]
-[07/14][23:30][MX/AT-X]][ダンガンロンパ3 -The End of 希望ヶ峰学園- 絶望編][Danganronpa 3 The End of Kibougamine Gakuen - Zetsubou Hen][절망편] // [BS11 07/14 24:30]
+[07/14][23:30][AT-X/MX]][ダンガンロンパ3 -The End of 希望ヶ峰学園- 絶望編][Danganronpa 3 The End of Kibougamine Gakuen - Zetsubou Hen][절망편] // [BS11 07/14 24:30]
 [07/14][24:55][CX][バッテリー][Battery][배터리]
 [07/07][25:58][TBS][はんだくん][Handa-kun]
 [07/07][26:28][TBS][この美術部には問題がある][Kono Bijutsubu ni wa Mondai ga Aru!][이 미술부에는 문제가 있다!]
